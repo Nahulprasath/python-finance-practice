@@ -1,0 +1,50 @@
+# Stock Market Fundamental Analysis using Python
+
+This project performs live stock market fundamental analysis using Python and the Yahoo Finance API (`yfinance`). It fetches real-time financial data of major NSE-listed companies and analyzes important financial metrics such as PE Ratio, EPS, ROE, Profit Margin, Debt-to-Equity Ratio, and Revenue Growth.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- yFinance
+
+## Features
+- Live stock data fetching
+- Fundamental analysis of multiple companies
+- Sector-wise classification
+- Financial metric comparison
+- Structured DataFrame analysis
+
+## Financial Metrics Included
+- Current Price
+- EPS (Earnings Per Share)
+- PE Ratio
+- ROE (Return on Equity)
+- Debt-to-Equity Ratio
+- Profit Margin
+- Revenue Growth
+
+## Companies Analyzed
+- Reliance
+- TCS
+- HDFC Bank
+- Wipro
+- ONGC
+- ITC
+- Bajaj Finance
+- Axis Bank
+- HCL Technologies
+
+## Applications
+- Stock market analysis
+- Financial data analytics
+- Quantitative finance learning
+- Python-based finance projects
+
+## Future Improvements
+- Interactive dashboards
+- Advanced visualizations
+- Portfolio analysis
+- Technical indicators
+- Machine learning prediction models
